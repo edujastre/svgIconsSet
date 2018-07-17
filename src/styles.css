@@ -30,6 +30,8 @@ Icon colors
   display: inline-block;
   /* icon primary color */
   color: #000;
+  min-width: 48px;
+  min-height: 48px;
 }
 
 .nc-icon use {
