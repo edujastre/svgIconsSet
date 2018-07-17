@@ -1,0 +1,21 @@
+/* You can add global styles to this file, and also import other style files */
+h1 {
+    font-size: 250%;
+    font-weight: bold;
+    color: #cccccc;
+}
+
+h2, h3, p {
+    font-size: 16px;
+    text-align: "center";
+
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+mat-icon.mat-18.mat-icon {
+  width: 48px;
+  height: 48px;
+}
